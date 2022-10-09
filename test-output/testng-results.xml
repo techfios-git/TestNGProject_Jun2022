@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73267" started-at="2022-10-08T18:53:48Z" finished-at="2022-10-08T18:55:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73267" started-at="2022-10-08T18:53:48Z" finished-at="2022-10-08T18:55:01Z">
+      <class name="vairousConcepts.LoginTest">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:vairousConcepts.LoginTest@55f3ddb1]" name="readConfig" is-config="true" duration-ms="14" started-at="2022-10-09T00:53:48Z" finished-at="2022-10-09T00:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:vairousConcepts.LoginTest@55f3ddb1]" name="init" is-config="true" duration-ms="16032" started-at="2022-10-09T00:53:48Z" finished-at="2022-10-09T00:54:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addCustomer()[pri:2, instance:vairousConcepts.LoginTest@55f3ddb1]" name="addCustomer" duration-ms="57172" started-at="2022-10-09T00:54:04Z" finished-at="2022-10-09T00:55:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+      </class> <!-- vairousConcepts.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
